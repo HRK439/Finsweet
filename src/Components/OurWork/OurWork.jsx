@@ -4,14 +4,14 @@ import { FaLongArrowAltRight } from "react-icons/fa";
 import { FaArrowRight } from "react-icons/fa";
 import card from '../../assets/Card.png'
 import card2 from '../../assets/card2.png'
-import card3 from '../../assets/card3.png'
+import card3 from '../../assets/Card3.png'
 
 const OurWork = () => {
   return (
     <section id='Ourwork'>
         <Container>
             <Row>
-                <Col id='ppp' className='owh' lg={{span:5}}>
+                <Col className='owh' lg={{span:5}}>
                 <h3>View our projects</h3>
                 </Col>
                 <Col className='owa' lg={{span:2,offset:5}}>
