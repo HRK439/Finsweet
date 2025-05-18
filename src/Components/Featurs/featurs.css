@@ -2,18 +2,19 @@
     padding: 100px 0;
     background-color: #F4F6FC;
 }
+
 .featrph p{
     font-weight: 500;
     font-size: 16px;
     line-height: 28px;
-    color: #282938;
+    color: #ffffff;
     font-family: "Poppins", sans-serif ;
 }
 .featrph h3{
     font-weight: 600;
     font-size: 48px;
     line-height: 64px;
-    color: #282938;
+    color: #ffffff;
     font-family: "Poppins", sans-serif ;
 }
 .peopleic{
