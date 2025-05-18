@@ -1,0 +1,52 @@
+#Testimonials{
+    padding: 100px 0;
+}
+.hptest h3{
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 56px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+}
+.hptest p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+}
+.imhptst{
+    display: flex;
+    padding-top: 30px;
+}
+.imhptst img{
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.hptst{
+    padding-left: 10px;
+}
+.gpxtt h3{
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+}
+.hptst h4{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+}
+.hptst p{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 32px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+}

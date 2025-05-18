@@ -1,0 +1,45 @@
+#Process{
+    padding: 100px 0;
+}
+.tcproc h3{
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+}
+.mainDots{
+    display: flex;
+    align-items: center;
+}
+.BDots{
+    font-weight: 600;
+    font-size: 64px;
+    color: #2405F2;
+    padding-right: 10px;
+
+}
+.SDots{
+    font-weight: 600;
+    font-size: 40px;
+    color: #2405F2;
+}
+.txtDots{
+    padding-left: 18px;
+}
+.txtDots h3{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+
+}
+.txtDots p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+
+}

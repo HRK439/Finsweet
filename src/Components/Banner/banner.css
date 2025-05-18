@@ -1,0 +1,43 @@
+#banner{
+    background-color: #1C1E53;
+    padding: 100px 0;
+}
+.ban_hxp h3{
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 74px;
+    font-family: "Poppins", sans-serif;
+
+}
+.ban_hxp p{
+    color: #FFFFFF ;
+}
+.btn_aro{
+    padding-top: 20px;
+}
+.btn_aro a.btn_aro1 {
+    font-family: "Manrope", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 32px;
+    color: #1B1C2B;
+    text-decoration: none;
+    background-color: #FCD980;
+    padding: 15px 32px 15px 32px;
+    border-radius: 18px;
+    -webkit-border-radius: 33px;
+    -moz-border-radius: 18px;
+    -ms-border-radius: 18px;
+    -o-border-radius: 18px;
+
+}
+.btn_aro a.btn_aro2{
+    margin-left: 10px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+}

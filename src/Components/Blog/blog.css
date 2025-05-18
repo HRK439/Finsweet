@@ -1,0 +1,16 @@
+#Blog{
+    padding: 100px 0;
+
+}
+.crancd a{
+    text-decoration: none;
+    font-size: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+
+}
+.crdpd{
+    padding-top: 20px;
+}

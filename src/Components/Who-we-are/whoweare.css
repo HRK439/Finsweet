@@ -1,0 +1,53 @@
+#whoweare{
+    padding: 100px 0;
+}
+#contwwr{
+    background-color: #F4F5F5;
+    padding-top: 10px;
+}
+.wwahp h4{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+
+}
+.wwahp h3{
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 56px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+
+}
+.wwahp p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+
+}
+.wwahp2nd h3{
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 56px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+
+}
+.wwahp2nd p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+}
+
+.wwahp2nd{
+    padding-top: 35px;
+}
+.gtimg img{
+    width: 100%;
+}

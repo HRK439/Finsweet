@@ -1,0 +1,32 @@
+#FAQ{
+    padding: 100px 0;
+}
+.fqha h3{
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 56px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+}
+.fqha a{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #2405F2;
+    font-family: "Poppins", sans-serif;
+}
+.spntqa{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #2405F2;
+    font-family: "Poppins", sans-serif;
+}
+.prttfaq{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+}

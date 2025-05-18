@@ -1,0 +1,25 @@
+#About_hero{
+    padding: 100px 0;
+    
+}
+.ahmain h4{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+}
+.ahmain h3{
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 74px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+}
+.ahmain p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+}

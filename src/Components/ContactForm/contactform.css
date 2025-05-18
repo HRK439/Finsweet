@@ -1,0 +1,98 @@
+#ContactForm{
+    padding: 100px 0;
+
+}
+.cfhp h3{
+    padding: 20px;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 74px;
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+
+}
+.cfhp p{
+    padding: 20px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+}
+.cfimg{
+    position: relative;
+}
+.cfhp {
+    position: absolute;
+    top: 0;
+    left: 0px;
+    width: 104%;
+    height: 100%;
+    background-color: #1C1E5380;
+}
+.forpdhp {
+    padding-top: 106px;
+    padding-left: 93px;
+}
+.maincfinput {
+    padding: 23px 20px 106px 34px;
+    background-color: #1C1E53;
+}
+.maincfinput h3{
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+}
+.maincfinput p{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #F4F6FC;
+    font-family: "Poppins", sans-serif;
+}
+.inputcf{
+    text-align: center;
+}
+.inputcf input {
+    margin-top: 10px;
+    font-family: "Poppins", sans-serif;
+    padding: 13px 250px 23px 25px;
+    background-color: #1C1E53;
+    border: 1.5px solid #FFFFFF0D;
+    color: #F4F6FC;
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+}
+.cfbtfaf{
+    text-align: center;
+}
+.cfbtfaf button{
+    margin-top: 10px !important;
+    padding: 16px 204px 10px 204px !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    line-height: 38px !important;
+    color: #1B1C2B !important;
+    background-color: #FCD980 !important;
+    font-family: "Poppins", sans-serif !important;
+}
+.cfbtfafaa{
+    text-align: center;
+    margin-top: 10px;
+}
+.cfbtfafaa a{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+}
+.inmputr {
+    padding: 91px 1px 1px 57px;
+}

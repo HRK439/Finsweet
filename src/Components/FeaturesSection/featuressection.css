@@ -1,0 +1,33 @@
+#Featurs{
+    padding: 100px 0;
+    background-color: #1C1E53;
+}
+.FHS h3{
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 74px;
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+
+}
+.FHS p{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+}
+.FTSBK {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 32px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+    background-color: #FCD980;
+    padding: 10px 50px 10px 50px !important;
+    border-radius: 25px !important;
+    -webkit-border-radius: 25px !important;
+    -moz-border-radius: 25px !important;
+    -ms-border-radius: 25px !important;
+    -o-border-radius: 25px !important;
+}

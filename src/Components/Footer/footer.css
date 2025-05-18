@@ -1,0 +1,55 @@
+#Footer{
+    padding-top: 100px;
+    background-color: #1C1E53;
+}
+.paraggx{
+    padding-top: 10px;
+}
+.paraggx p{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+}
+
+.mainftl{
+    justify-content: space-around;
+    display: flex;
+    background-color: #FCD980;
+}
+.exeh3 h3{
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    color: #FFFFFF;
+
+}
+.fttp{
+    color: #FFFFFF;
+    padding-right: 10px;
+    font-size: 30px;
+}
+
+.icfit {
+    padding-top: 95px;
+}
+.mmg{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+    padding-left: 10px;
+}
+#ftlstor{
+    padding: 30px 0;
+}
+.orgg p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #F4F6FC;
+    font-family: "Poppins", sans-serif;
+}

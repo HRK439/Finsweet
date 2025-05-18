@@ -1,0 +1,200 @@
+#Pricingg{
+    padding: 100px 0;
+}
+.prggg h3{
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+
+}
+.LPMLB h3{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+}
+.LPMLB p{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+}
+
+#MLBXSECT{
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+.prggg p{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+
+}
+.MainLongbx {
+    background-color: #F4F6FC;
+    padding: 10px 10px 11px 15px;
+    border-radius: 16px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    -ms-border-radius: 16px;
+    -o-border-radius: 16px;
+}
+.MainLongbxo{
+    background-color: #F4F6FC;
+    padding: 10px 10px 11px 15px;
+    border-radius: 16px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    -ms-border-radius: 16px;
+    -o-border-radius: 16px;
+}
+.MLBp{
+    display: flex;
+    align-items: center;
+}
+.MLBp h3{
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 56px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+}
+.MLBp a{
+    text-decoration: none;
+    padding-left: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #2405F2;
+    font-family: "Poppins", sans-serif;
+}
+
+
+
+
+.PARAICON{
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+}
+.PRICOn{
+    color: #97DAAD;
+    font-size: 30px;
+}
+.PARAICON p{
+    padding-top: 17px;
+    padding-left: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+}
+.PRICOnn{
+    color: #afafaf;
+    font-size: 30px;
+}
+.subBtn {
+    text-align: center;
+    padding: 61px 0;
+}
+.sbBTN {
+    padding: 10px 61px 10px 61px !important;
+    font-weight: 600 !important;
+    font-size: 18px !important;
+    line-height: 32px !important;
+    color: #F4F6FC !important;
+    background-color: #282938 !important;
+    border: 1px solid #282938 !important;
+    font-family: "Poppins", sans-serif;
+    border-radius: 25px !important;
+    -webkit-border-radius: 25px !important;
+    -moz-border-radius: 25px !important;
+    -ms-border-radius: 25px !important;
+    -o-border-radius: 25px !important;
+}
+/* ............................................ */
+.LPMLBb h3{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+}
+.LPMLBb p{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+}
+.MainLongbxb {
+    background-color: #1C1E53;
+    padding: 10px 16px 16px 22px;
+    border-radius: 16px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    -ms-border-radius: 16px;
+    -o-border-radius: 16px;
+}
+.MLBpp{
+    display: flex;
+    align-items: center;
+}
+.MLBpp h3{
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 56px;
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+}
+
+.MLBpp a{
+    text-decoration: none;
+    padding-left: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FCD980;
+    font-family: "Poppins", sans-serif;
+}
+.PARAICONn{
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+}
+.PARAICONn p{
+    padding-top: 17px;
+    padding-left: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+}
+
+.sbBTNn{
+        padding: 10px 61px 10px 61px !important;
+    font-weight: 600 !important;
+    font-size: 18px !important;
+    line-height: 32px !important;
+    color: #282938 !important;
+    background-color: #FCD980 !important;
+    border: 1px solid #FCD980 !important;
+    font-family: "Poppins", sans-serif;
+    border-radius: 25px !important;
+    -webkit-border-radius: 25px !important;
+    -moz-border-radius: 25px !important;
+    -ms-border-radius: 25px !important;
+    -o-border-radius: 25px !important;
+}
+.subBtnm{
+    text-align: center;
+    padding: 20px 0;
+}
+
